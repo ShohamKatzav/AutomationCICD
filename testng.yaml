@@ -1,0 +1,14 @@
+name: Suite
+parallel: tests
+configFailurePolicy: skip
+tests:
+  - name: Submit Order Test
+  parallel: tests
+  classes:
+    - shohamkatzav.test.SubmitOrderTest
+
+  - name: Error Validations Test
+  parallel: tests
+  classes:
+    - shohamkatzav.test.ErrorValidationsTest
+
