@@ -157,7 +157,7 @@ mvn clean test -P Regression
 
 Shoham Katzav - shohamkatzav95@gmail.com
 
-Project Link: [https://github.com/yourusername/SeleniumFrameworkDesign](https://github.com/yourusername/SeleniumFrameworkDesign)
+Project Link: [https://github.com/ShohamKatzav/AutomationCICD](https://github.com/ShohamKatzav/AutomationCICD)
 
 
 ⭐ Star this repository if you find it helpful!
