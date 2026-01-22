@@ -1,0 +1,26 @@
+# Maven & Build
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# IDEs
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+.factorypath
+
+# Selenium Specifics
+test-output/
+temp-testng-customsuite.xml
+*.log
+screenshots/
+drivers/
+*.exe
+
+# OS junk
+.DS_Store
+Thumbs.db
